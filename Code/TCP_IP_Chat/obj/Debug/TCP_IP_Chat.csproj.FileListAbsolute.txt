@@ -1,0 +1,42 @@
+C:\Users\pc\Downloads\ChatApp2\Chat_TCP_IP_CSharp\TCP_IP_Chat\bin\Debug\TCP_IP_Chat.exe.config
+C:\Users\pc\Downloads\ChatApp2\Chat_TCP_IP_CSharp\TCP_IP_Chat\bin\Debug\TCP_IP_Chat.exe
+C:\Users\pc\Downloads\ChatApp2\Chat_TCP_IP_CSharp\TCP_IP_Chat\bin\Debug\TCP_IP_Chat.pdb
+C:\Users\pc\Downloads\ChatApp2\Chat_TCP_IP_CSharp\TCP_IP_Chat\bin\Debug\MaterialSkin.dll
+C:\Users\pc\Downloads\ChatApp2\Chat_TCP_IP_CSharp\TCP_IP_Chat\bin\Debug\SimpleTcp.dll
+C:\Users\pc\Downloads\ChatApp2\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\ChatApp2\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.FrmLogin.resources
+C:\Users\pc\Downloads\ChatApp2\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.FrmMain.resources
+C:\Users\pc\Downloads\ChatApp2\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.Properties.Resources.resources
+C:\Users\pc\Downloads\ChatApp2\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\ChatApp2\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\ChatApp2\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.csproj.CopyComplete
+C:\Users\pc\Downloads\ChatApp2\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.exe
+C:\Users\pc\Downloads\ChatApp2\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.pdb
+C:\Users\pc\Downloads\ChatApp dự của dự phòng\Chat_TCP_IP_CSharp\TCP_IP_Chat\bin\Debug\TCP_IP_Chat.exe.config
+C:\Users\pc\Downloads\ChatApp dự của dự phòng\Chat_TCP_IP_CSharp\TCP_IP_Chat\bin\Debug\TCP_IP_Chat.exe
+C:\Users\pc\Downloads\ChatApp dự của dự phòng\Chat_TCP_IP_CSharp\TCP_IP_Chat\bin\Debug\TCP_IP_Chat.pdb
+C:\Users\pc\Downloads\ChatApp dự của dự phòng\Chat_TCP_IP_CSharp\TCP_IP_Chat\bin\Debug\MaterialSkin.dll
+C:\Users\pc\Downloads\ChatApp dự của dự phòng\Chat_TCP_IP_CSharp\TCP_IP_Chat\bin\Debug\SimpleTcp.dll
+C:\Users\pc\Downloads\ChatApp dự của dự phòng\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\ChatApp dự của dự phòng\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.FrmLogin.resources
+C:\Users\pc\Downloads\ChatApp dự của dự phòng\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.FrmMain.resources
+C:\Users\pc\Downloads\ChatApp dự của dự phòng\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.Properties.Resources.resources
+C:\Users\pc\Downloads\ChatApp dự của dự phòng\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\ChatApp dự của dự phòng\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\ChatApp dự của dự phòng\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.csproj.CopyComplete
+C:\Users\pc\Downloads\ChatApp dự của dự phòng\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.exe
+C:\Users\pc\Downloads\ChatApp dự của dự phòng\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.pdb
+C:\Users\pc\Desktop\LTM\Chat_TCP_IP_CSharp\TCP_IP_Chat\bin\Debug\TCP_IP_Chat.exe.config
+C:\Users\pc\Desktop\LTM\Chat_TCP_IP_CSharp\TCP_IP_Chat\bin\Debug\TCP_IP_Chat.exe
+C:\Users\pc\Desktop\LTM\Chat_TCP_IP_CSharp\TCP_IP_Chat\bin\Debug\TCP_IP_Chat.pdb
+C:\Users\pc\Desktop\LTM\Chat_TCP_IP_CSharp\TCP_IP_Chat\bin\Debug\MaterialSkin.dll
+C:\Users\pc\Desktop\LTM\Chat_TCP_IP_CSharp\TCP_IP_Chat\bin\Debug\SimpleTcp.dll
+C:\Users\pc\Desktop\LTM\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\LTM\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.FrmLogin.resources
+C:\Users\pc\Desktop\LTM\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.FrmMain.resources
+C:\Users\pc\Desktop\LTM\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.Properties.Resources.resources
+C:\Users\pc\Desktop\LTM\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\LTM\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\LTM\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.csproj.CopyComplete
+C:\Users\pc\Desktop\LTM\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.exe
+C:\Users\pc\Desktop\LTM\Chat_TCP_IP_CSharp\TCP_IP_Chat\obj\Debug\TCP_IP_Chat.pdb
